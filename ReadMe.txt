@@ -6,7 +6,7 @@ If run as an executable it will compare all files in the same directory except t
 
 If run in the command line with less than two inputs it will run as if it was an executable.
 
-Example output:
+Example output using GUIDS:
 $>
 	Comparing all files in the parent directory...
 
